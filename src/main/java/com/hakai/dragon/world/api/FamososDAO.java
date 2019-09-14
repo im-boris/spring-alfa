@@ -1,6 +1,6 @@
 package com.hakai.dragon.world.api;
 
-public interface GuerreirosDAO {
+public interface FamososDAO {
 
 	
 //	import org.springframework.data.jpa.repository.Query;

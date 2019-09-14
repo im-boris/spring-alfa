@@ -1,4 +1,4 @@
-package com.hakai.dragon.world;
+package com.quiz.pos.famosos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,10 +11,10 @@ import org.springframework.context.annotation.ComponentScan;
 //@EntityScan("com.enterprise.sib.api.*")
 //@EnableJpaRepositories
 
-public class DragonWorldApiApplication {
+public class QuizFamososApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DragonWorldApiApplication.class, args);
+		SpringApplication.run(QuizFamososApiApplication.class, args);
 	}
 
 }
