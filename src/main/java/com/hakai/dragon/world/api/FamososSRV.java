@@ -149,7 +149,7 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Scarlett Johansson\",\r\n" + 
     			"      \"dataNasc\": \"November 22, 1984\",\r\n" + 
-    			"      \"urlImagem\": \"https://amp.insider.com/images/5c8a8141dd08611286199063-750-56.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzkxOTI1MjYy/scarlett-johansson-13671719-1-402.jpg\",\r\n" + 
     			"      \"dica\": \"Viuva negra\",\r\n" + 
     			"      \"sexo\": \"f\"\r\n" + 
     			"    },\r\n" + 
@@ -163,14 +163,14 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Chris Evans\",\r\n" + 
     			"      \"dataNasc\": \"June 13, 1981\",\r\n" + 
-    			"      \"urlImagem\": \"https://www.altfg.com/film/wp-content/uploads/images/2016/05/captain-america-civil-war-chris-evans.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chris_Evans_SDCC_2014.jpg/1200px-Chris_Evans_SDCC_2014.jpg\",\r\n" + 
     			"      \"dica\": \"Capitão america\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Chris Hemsworth\",\r\n" + 
     			"      \"dataNasc\": \"August 11, 1983\",\r\n" + 
-    			"      \"urlImagem\": \"https://cdn.mamamia.com.au/wp/wp-content/uploads/2017/10/19170125/Thor-Ragnorok-Social-650x507.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://upload.wikimedia.org/wikipedia/commons/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg\",\r\n" + 
     			"      \"dica\": \"Thor\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
@@ -198,7 +198,7 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Samuel L. Jackson\",\r\n" + 
     			"      \"dataNasc\": \"December 21, 1948\",\r\n" + 
-    			"      \"urlImagem\": \"https://cdn.britannica.com/77/191077-050-63262B99/Samuel-L-Jackson.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://www.nydailynews.com/resizer/aC2dAbEERNALldj9afbRdU1Qmcw=/800x1188/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/N55LC7BEXIROBPTEWFGBLUJSMQ.jpg\",\r\n" + 
     			"      \"dica\": \"Nick Fury em os vingadores\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
@@ -212,16 +212,9 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Tom Holland\",\r\n" + 
     			"      \"dataNasc\": \"June 1, 1996\",\r\n" + 
-    			"      \"urlImagem\": \"https://ewedit.files.wordpress.com/2018/06/tom-holland1.jpg?crop981px%2C103px%2C1010px%2C1010px&resize1200%2C1200\",\r\n" + 
+    			"      \"urlImagem\": \"https://resizing.flixster.com/PpvCoUwYEBIV9n9vXzhKJLrLIIE=/1936x2675/v1.cjs0OTY2NDtqOzE4MTgwOzEyMDA7MTkzNjsyNjc1\",\r\n" + 
     			"      \"dica\": \"Homem-aranha UCM\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
-    			"    },\r\n" + 
-    			"    {\r\n" + 
-    			"      \"nome\": \"Mariah Carey\",\r\n" + 
-    			"      \"dataNasc\": \"March 27, 1970\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
-    			"      \"dica\": \"Cantora\",\r\n" + 
-    			"      \"sexo\": \"f\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Karen Gillan\",\r\n" + 
@@ -233,14 +226,14 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Don Cheadle\",\r\n" + 
     			"      \"dataNasc\": \"November 29, 1964\",\r\n" + 
-    			"      \"urlImagem\": \"https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2019/07/gettyimages-969551878_0.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/1/19/Don_Cheadle.jpg/revision/latest?cb=20190423143016\",\r\n" + 
     			"      \"dica\": \"War machine\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Josh Brolin\",\r\n" + 
     			"      \"dataNasc\": \"February 12, 1968\",\r\n" + 
-    			"      \"urlImagem\": \"https://pmcvariety.files.wordpress.com/2019/02/josh-brolin.jpg?w1000\",\r\n" + 
+    			"      \"urlImagem\": \"https://s1.r29static.com/bin/entry/839/720x864,85/1983519/image.webp\",\r\n" + 
     			"      \"dica\": \"Thanos e Cable\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
@@ -254,61 +247,46 @@ public class FamososSRV {
     			"    {\r\n" + 
     			"      \"nome\": \"Anthony Mackie\",\r\n" + 
     			"      \"dataNasc\": \"September 23, 1978\",\r\n" + 
-    			"      \"urlImagem\": \"https://www.indiewire.com/wp-content/uploads/2019/06/shutterstock_10216461ao.jpg\",\r\n" + 
+    			"      \"urlImagem\": \"https://s.yimg.com/ny/api/res/1.2/SWKYXjF3MvbxFSovasWM4w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en_SG/News/CoverMedia/image_galleryuuidd7369fd4-7bf8-4882-a4a4-5835294d6aecgroupId10139t1525476252570\",\r\n" + 
     			"      \"dica\": \"Falcão em os vingadores\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Elizabeth Olsen\",\r\n" + 
     			"      \"dataNasc\": \"February 16, 1989\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
-    			"      \"dica\": \"\",\r\n" + 
+    			"      \"urlImagem\": \"https://upload.wikimedia.org/wikipedia/commons/1/10/Elizabeth_Olsen_SDCC_2014_2_%28cropped%29.jpg\",\r\n" + 
+    			"      \"dica\": \"Wanda Maximoff\",\r\n" + 
     			"      \"sexo\": \"f\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Benedict Cumberbatch\",\r\n" + 
     			"      \"dataNasc\": \"July 19, 1976\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
+    			"      \"urlImagem\": \"https://i.pinimg.com/originals/9a/7f/0b/9a7f0b8aa056e330fb053dd3192a63dc.jpg\",\r\n" + 
     			"      \"dica\": \"Doutor Estranho\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Sebastian Stan\",\r\n" + 
     			"      \"dataNasc\": \"August 13, 1982\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
+    			"      \"urlImagem\": \"https://ilarge.lisimg.com/image/11477760/1000full-winter-soldier-%28sebastian-stan%29.jpg\",\r\n" + 
     			"      \"dica\": \"Soldado Invernal\",\r\n" + 
-    			"      \"sexo\": \"m\"\r\n" + 
-    			"    },\r\n" + 
-    			"    {\r\n" + 
-    			"      \"nome\": \"Chadwick Aaron Boseman\",\r\n" + 
-    			"      \"dataNasc\": \"November 29, 1977\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
-    			"      \"dica\": \"Pantera Negra\",\r\n" + 
-    			"      \"sexo\": \"m\"\r\n" + 
-    			"    },\r\n" + 
-    			"    {\r\n" + 
-    			"      \"nome\": \"Dave Bautista\",\r\n" + 
-    			"      \"dataNasc\": \"January 18, 1969\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
-    			"      \"dica\": \"Drax\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Benedict Wong\",\r\n" + 
     			"      \"dataNasc\": \"June 3, 1971\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
+    			"      \"urlImagem\": \"https://upload.wikimedia.org/wikipedia/commons/7/7c/Benedict_Wong%2C_2016_%28cropped%29.jpg\",\r\n" + 
     			"      \"dica\": \"Wong em doutor estranho\",\r\n" + 
     			"      \"sexo\": \"m\"\r\n" + 
     			"    },\r\n" + 
     			"    {\r\n" + 
     			"      \"nome\": \"Letitia Wright\",\r\n" + 
     			"      \"dataNasc\": \"October 31, 1993\",\r\n" + 
-    			"      \"urlImagem\": \"\",\r\n" + 
+    			"      \"urlImagem\": \"https://upload.wikimedia.org/wikipedia/commons/3/37/Letitia_Wright_by_Gage_Skidmore.jpg\",\r\n" + 
     			"      \"dica\": \"Shuri em pantera negra\",\r\n" + 
     			"      \"sexo\": \"f\"\r\n" + 
     			"    }\r\n" + 
     			"  ]";
-    	 
     }
 	
 	
